@@ -1,0 +1,72 @@
+Reykjavíkurborg
+Kópavogsbær
+Seltjarnarnesbær
+Garðabær
+Hafnarfjarðarkaupstaður
+Mosfellsbær
+Kjósarhreppur
+Reykjanesbær
+Grindavíkurbær
+Sveitarfélagið Vogar
+Suðurnesjabær
+Akraneskaupstaður
+Skorradalshreppur
+Hvalfjarðarsveit
+Borgarbyggð
+Grundarfjarðarbær
+Helgafellssveit
+Stykkishólmsbær
+Eyja- og Miklaholtshreppur
+Snæfellsbær
+Dalabyggð
+Bolungarvíkurkaupstaður
+Ísafjarðarbær
+Reykhólahreppur
+Tálknafjarðarhreppur
+Vesturbyggð
+Súðavíkurhreppur
+Árneshreppur
+Kaldrananeshreppur
+Strandabyggð
+Sveitarfélagið Skagafjörður
+Húnaþing vestra
+Blönduósbær
+Sveitarfélagið Skagaströnd
+Skagabyggð
+Húnavatnshreppur
+Akrahreppur
+Akureyrarbær
+Norðurþing
+Fjallabyggð
+Dalvíkurbyggð
+Eyjafjarðarsveit
+Hörgársveit
+Svalbarðsstrandarhreppur
+Grýtubakkahreppur
+Skútustaðahreppur
+Tjörneshreppur
+Þingeyjarsveit
+Svalbarðshreppur
+Langanesbyggð
+Seyðisfjarðarkaupstaður
+Fjarðabyggð
+Vopnafjarðarhreppur
+Fljótsdalshreppur
+Borgarfjarðarhreppur
+Djúpavogshreppur
+Fljótsdalshérað
+Sveitarfélagið Hornafjörður
+Vestmannaeyjabær
+Sveitarfélagið Árborg
+Mýrdalshreppur
+Skaftárhreppur
+Ásahreppur
+Rangárþing eystra
+Rangárþing ytra
+Hrunamannahreppur
+Hveragerðisbær
+Sveitarfélagið Ölfus
+Grímsnes- og Grafningshreppur
+Skeiða- og Gnúpverjahreppur
+Bláskógabyggð
+Flóahreppur

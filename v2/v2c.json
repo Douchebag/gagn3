@@ -1,0 +1,268 @@
+{
+  "_id": {
+    "$oid": "5e5653261c9d440000fabaa2"
+  },
+  "Nemendur": [
+    {
+      "nemNafn": "Áslákur Benonýsson",
+      "afangar": [
+        {
+          "afangaNafn": "STÆR2BR05",
+          "einkunn": 8
+        },
+        {
+          "afangaNafn": "ÍSLE2AA05",
+          "einkunn": 7
+        },
+		{
+          "afangaNafn": "ÍÞRÓ1GH02",
+          "einkunn": 8
+        },
+		{
+          "afangaNafn": "FORR1FG05",
+          "einkunn": 5
+        },
+		{
+          "afangaNafn": "VESM1VS05",
+          "einkunn": 9
+        },
+		{
+          "afangaNafn": "KEST1TR05",
+          "einkunn": 6
+        }
+      ]
+    },
+    {
+      "nemNafn": "Tóbías Grétarsson",
+      "afangar": [
+        {
+          "afangaNafn": "STÆR2AH05",
+          "einkunn": 6
+        },
+        {
+          "afangaNafn": "FORR1FG05",
+          "einkunn": 5
+        },
+		{
+          "afangaNafn": "VEFÞ1VG05",
+          "einkunn": 9
+        },
+		{
+          "afangaNafn": "KEST2VJ05",
+          "einkunn": 4
+        },
+		{
+          "afangaNafn": "ÍSLE2GO05",
+          "einkunn": 5
+        },
+		{
+          "afangaNafn": "ENSK2AE05",
+          "einkunn": 7
+        }
+      ]
+    },
+    {
+      "nemNafn": "Fannar Hólmgrímsson",
+      "afangar": [
+        {
+          "afangaNafn": "STÆR3RV05",
+          "einkunn": 4
+        },
+        {
+          "afangaNafn": "ÍSLE2GO05",
+          "einkunn": 2
+        },
+		{
+          "afangaNafn": "EÐLI2GR05",
+          "einkunn": 6
+        },
+		{
+          "afangaNafn": "ÍÞRÓ1LB01",
+          "einkunn": 5
+        },
+		{
+          "afangaNafn": "VESM1VS05",
+          "einkunn": 7
+        },
+		{
+          "afangaNafn": "KEST1TR05",
+          "einkunn": 4
+        }
+      ]
+    },
+    {
+      "nemNafn": "Freysteinn Neósson",
+      "afangar": [
+        {
+          "afangaNafn": "EÐLI2GR05",
+          "einkunn": 5
+        },
+        {
+          "afangaNafn": "FORR2FA05",
+          "einkunn": 6
+        },
+		{
+          "afangaNafn": "VESM2VS05",
+          "einkunn": 3
+        },
+		{
+          "afangaNafn": "VEFÞ1VG05",
+          "einkunn": 7
+        },
+		{
+          "afangaNafn": "STÆR2AH05",
+          "einkunn": 6
+        },
+		{
+          "afangaNafn": "KEST1TR05",
+          "einkunn": 9
+        }
+      ]
+    },
+    {
+      "nemNafn": "Annar Smárason",
+      "afangar": [
+        {
+          "afangaNafn": "STÆR2BR05",
+          "einkunn": 6
+        },
+        {
+          "afangaNafn": "FORR2FA05",
+          "einkunn": 8
+        },
+		{
+          "afangaNafn": "ÍÞRÓ1GH02",
+          "einkunn": 5
+        },
+		{
+          "afangaNafn": "VESM2VS05",
+          "einkunn": 5
+        },
+		{
+          "afangaNafn": "ÍSLE2GO05",
+          "einkunn": 9
+        },
+		{
+          "afangaNafn": "EÐLI2GR05",
+          "einkunn": 4
+        }
+      ]
+    },
+    {
+      "nemNafn": "Gunnhildur Þórsdóttir",
+      "afangar": [
+        {
+          "afangaNafn": "STÆR3FM05",
+          "einkunn": 6
+        },
+        {
+          "afangaNafn": "ÍSLE2GO05",
+          "einkunn": 8
+        },
+		{
+          "afangaNafn": "ÍÞRÓ1LC01",
+          "einkunn": 6
+        },
+		{
+          "afangaNafn": "FORR2FA05",
+          "einkunn": 8
+        },
+		{
+          "afangaNafn": "KEST2VJ05",
+          "einkunn": 7
+        },
+		{
+          "afangaNafn": "VEFÞ2VF05",
+          "einkunn": 6
+        }
+      ]
+    },
+    {
+      "nemNafn": "Sindri Hrafnsson",
+      "afangar": [
+        {
+          "afangaNafn": "STÆR2AH05",
+          "einkunn": 7
+        },
+        {
+          "afangaNafn": "EÐLI2GR05",
+          "einkunn": 7
+        },
+		{
+          "afangaNafn": "ENSK2AE05",
+          "einkunn": 7
+        },
+		{
+          "afangaNafn": "VESM2VS05",
+          "einkunn": 6
+        },
+		{
+          "afangaNafn": "KEST2UN05",
+          "einkunn": 9
+        },
+		{
+          "afangaNafn": "VEFÞ2VH05",
+          "einkunn": 10
+        }
+      ]
+    },
+    {
+      "nemNafn": "Ásberg Arnarson",
+      "afangar": [
+        {
+          "afangaNafn": "STÆR2BR05",
+          "einkunn": 3
+        },
+        {
+          "afangaNafn": "ÍSLE2GO05",
+          "einkunn": 5
+        },
+		{
+          "afangaNafn": "ÍÞRÓ1LB01",
+          "einkunn": 6
+        },
+		{
+          "afangaNafn": "FORR2FA05",
+          "einkunn": 4
+        },
+		{
+          "afangaNafn": "VEFÞ2VH05",
+          "einkunn": 3
+        },
+		{
+          "afangaNafn": "KEST2VJ05",
+          "einkunn": 6
+        }
+      ]
+    },
+    {
+      "nemNafn": "Hallsteinn Sólmarsson",
+      "afangar": [
+        {
+          "afangaNafn": "STÆR2BR05",
+          "einkunn": 5
+        },
+        {
+          "afangaNafn": "ÍSLE2AA05",
+          "einkunn": 6
+        },
+		{
+          "afangaNafn": "ÍÞRÓ1GH02",
+          "einkunn": 5
+        },
+		{
+          "afangaNafn": "FORR1FG05",
+          "einkunn": 8
+        },
+		{
+          "afangaNafn": "VESM1VS05",
+          "einkunn": 9
+        },
+		{
+          "afangaNafn": "KEST1TR05",
+          "einkunn": 8
+        }
+      ]
+    }
+  ]
+}
